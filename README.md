@@ -28,3 +28,10 @@ BasicIndicator.start()
 # stop the indicator
 BasicIndicator.stop()
 ```
+
+# TODO
+- more flexible ActivityIndicator
+- Color Setting
+- UIAlertController
+- Screen Transitions
+- Rename to ViewHelpers
