@@ -1,0 +1,10 @@
+framework module BasicIndicator {
+  umbrella header "BasicIndicator.h"
+
+  export *
+  module * { export * }
+}
+
+module BasicIndicator.Swift {
+    header "BasicIndicator-Swift.h"
+}
